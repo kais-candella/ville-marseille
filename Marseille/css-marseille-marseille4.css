@@ -1,0 +1,153 @@
+body {
+  background-color: #e5e5e5;
+  background-image:url(../Marseille/Image/ivan-bandura-P_PISCn_A2w-unsplash.jpg);
+  background-size: 100%;
+  color: #ffffff;
+  margin: 0;
+  padding: 0;
+}
+h1{
+  color: #ffffff;
+  text-shadow: 1px 1.5px 2.5px #ffffff;
+}
+h2{
+  text-shadow: 1px 1.5px 2.5px #000000;
+}
+p{
+  text-shadow: 1px 1.5px 2.5px #000000;
+}
+
+a {
+  text-decoration: none !important;
+  color: inherit !important;
+}
+
+header {
+  background-color: rgba(0, 0, 0, 0.503);
+
+}
+
+.content {
+  max-width: 1000px;
+  margin-left: calc((100% - 1000px) / 2);
+}
+
+header .title h1 {
+  display: inline-block;
+  margin: 0;
+  padding: 15px 0 20px 0;
+  font-size: 35pt;
+  font-family: "Pacifico", cursive;
+  font-weight: 200;
+}
+
+main {
+  margin-top: 40px;
+}
+
+.article {
+  background-color: #0000007d;
+  padding: 15px;
+  margin-bottom: 22px;
+  box-shadow: 0 2px 15px #ffffff82;
+}
+
+.article img {
+  cursor: pointer;
+  width: 100%;
+}
+
+.article .location {
+  cursor: pointer;
+  font-style: italic;
+  text-align: center;
+  font-size: 9pt;
+  margin-top: 15px;
+  font-family: "Open Sans", sans-serif;
+}
+
+.article .location b {
+  text-transform: uppercase;
+  font-style: normal;
+  font-size: 12pt;
+  font-weight: 600;
+}
+
+.article .desc {
+  margin-top: 12px;
+  font-size: 10pt;
+  font-family: "Open Sans", sans-serif;
+  padding-bottom: 18px;
+  border-bottom: 1px solid rgb(255, 255, 255);
+}
+
+.article .info {
+  text-align: center;
+  font-family: "Open Sans", sans-serif;
+  margin-top: -5px;
+  color: #ffffff;
+  text-shadow: 1px 1.5px 2.5px #000000;
+}
+
+.article .info .horaires {
+  cursor: pointer;
+  margin-left: 20px;
+}
+
+.article .info .horaires:hover {
+  color: #ffffff;
+  transition: all 0.5s;
+  text-shadow: 1px 1.5px 2.5px #000000;
+}
+
+.article .info .date,
+.article .info .horaires {
+  font-size: 8pt;
+}
+
+.info .fa-location-dot,
+.info .fa-calendar-days {
+  margin-right: 3px;
+}
+
+footer {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  text-shadow: 1px 1.5px 2.5px #ffffff;
+  bottom: 24px;
+  width: 100%;
+  scroll-padding: 2em;
+  color: rgb(255, 255, 255);
+}
+.copyright {
+  font-size: 0.7rem;
+  letter-spacing: 0.2rem;
+  color: rgb(255, 255, 255);
+  text-transform: uppercase;
+}
+.social_links {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 2px;
+  margin-right: 24px;
+  
+}
+.social_links a {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: black;
+  width: 32px;
+  height: 32px;
+  border-radius: 5px;
+  background: transparent;
+  transition-property: background, opacity;
+  transition-duration: 0.25s;
+  transition-timing-function: ease-out;
+}
+.social_links a:hover {
+  background: #fff;
+  color: #999;
+}
