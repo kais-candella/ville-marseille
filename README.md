@@ -1,4 +1,4 @@
-![SourceForge languages](https://img.shields.io/sourceforge/languages/ville-marseille?style=plastic)
+https://img.shields.io/sourceforge/languages/ville-marseille?style=for-the-badge
 # Site web pour Marseille
 
 Ce projet contient un site web pour Marseille réalisé avec 3 personnes.
