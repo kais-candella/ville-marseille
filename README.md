@@ -1,38 +1,28 @@
-# **Site web pour Marseille**
-```
+# Site web pour Marseille
 
-Ce projet contient un site web pour Marseille réalisée avec 3 personnes.
-```
+Ce projet contient un site web pour Marseille réalisé avec 3 personnes.
 
-## **Objectif**
+## Objectif
 
-```
+L'objectif de ce projet était de réaliser un site web pour la ville de Marseille en groupe, avec une limite de temps et certains critères à respecter :
 
-L'objectif de ce projet etait de réalliser un site web pour la ville de Marseille en groupe avec une limite de temps et certain critere a respecter.
+- Conception visuelle et ergonomique
+- Navigation et organisation de contenu
+- Expérience utilisateur (navigation)
+- Vérification des informations données
 
-Conception visuelle et ergonomique
-Navigation et organisation de contenu
-Expérience utilisateur(navigation)
-verification des informations donné
+### Outils utilisés pour créer le site :
 
-```
+- HTML
+- CSS
+- Color Hunt
+- Photoshop
+- Un peu de JavaScript pour les animations de la page d'accueil
 
-### **Les outils suivants ont été utilisés crée le site :**
-```
-HTML
-CSS
-Color hunt
-Photoshop
-Un peu de java script pour les animation de la page d'accueil
+#### Informations complémentaires
 
+Les pages que j'ai réalisées sont :
 
-```
-#### **Informartion complementaires**
-
-```
-Les pages que j'ai réaliser sont :
-
-Page d'accueil
-Page musée
-
-```
+- Page d'accueil
+- Page musée
+- Page randonnées
